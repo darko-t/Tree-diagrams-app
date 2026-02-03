@@ -1,0 +1,1118 @@
+[
+  {
+    "code": "11",
+    "name": "Brücke, Viadukt",
+    "agg_count": 52,
+    "direct_count": 2,
+    "direct_objects": [
+      "ZH_002-016- / Brücke Viadukt Jonentobel Ost",
+      "09PS118 / PS ch.AF 2708 s CFF Ollon (pas F1)"
+    ],
+    "children": [
+      {
+        "code": "1111",
+        "name": "Brücke mit Einfeldträger",
+        "agg_count": 6,
+        "direct_count": 6,
+        "direct_objects": [
+          "D 04D / Pont sortie Bienne Nord 8-10",
+          "52.304S / Waldwegbrücke Steintal Gurtnellen",
+          "60.406 / Sottopasso SC Arbedo-Lumino (S-N)",
+          "J 18 / BRÜCKE Strandbad 1",
+          "A28 080 / Furnabachbrücke Furna Station",
+          "05P041 / Pont AF sur le canal du Pontet"
+        ],
+        "children": []
+      },
+      {
+        "code": "1112",
+        "name": "Brücke mit Durchlaufträger",
+        "agg_count": 10,
+        "direct_count": 10,
+        "direct_objects": [
+          "S 02 / BRÜCKE Worblaufenstrasse",
+          "N01 226 / UEF Thalerstrasse, Thal",
+          "A03 129 / Lehnenbrücke Bardella",
+          "D 08 / Viaduc Frinvillier Talspur",
+          "09P084-D / Pont sur la Baye de Clarens - Droite",
+          "N01 73R / Brücke Schiessplatz Ochsenweid Süd",
+          "702J_FR / Pont sur La Singine - Jura",
+          "N01 377 / Brücke Alter Rhein, St. Margrethen",
+          "TG_169 / UEF Schellenbüel, Egnach",
+          "N083012 / UEF KS 55 Sempach - Rain"
+        ],
+        "children": []
+      },
+      {
+        "code": "1113",
+        "name": "Brücke mit Gerberträger",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "NB 73A / Encorbellement Alfermée Ouest"
+        ],
+        "children": []
+      },
+      {
+        "code": "1121",
+        "name": "Brücke mit Rahmentragwerk",
+        "agg_count": 18,
+        "direct_count": 18,
+        "direct_objects": [
+          "401.026 A / Unterführung Bibersee - NS",
+          "P0131 / PI Bretelle St-Maurice - Bex",
+          "N083007 / UNF Wissenmoos Sempach",
+          "ZH_261-006 / UNF Saatlenstrasse / FG, Schwamendingen",
+          "N13 490 / Radwegüberführung Kreisel AS Landquart Ost",
+          "P0031 / PI Glarier T9",
+          "09PI039 / PI Rc de la Croix (1911)",
+          "VOU0020 / PS CJ sur le Jonc",
+          "D 47 / PI Champ Argent",
+          "N02X07 / UNF Lindenhagacker Egerkingen",
+          "ZH_034-001 / UNF Dachsenerstrasse, Laufen-Uhwiesen",
+          "N3-315A / DL Münchwilerbach Münchwilen",
+          "B 21 / UNF Erschwanden",
+          "20.426 / Sottopasso strada Santa Lucia",
+          "68.628 / UEF ZB Hofmättelistrasse beim AS Alpnach-Süd",
+          "48.620 B / DL Weidbach Seedorf",
+          "N13 166 / Unterführung Pessen",
+          "P0491C / PI Rte de débord Sud sous la rampe GSB-Sion"
+        ],
+        "children": []
+      },
+      {
+        "code": "1122",
+        "name": "Brücke mit Sprengwerk",
+        "agg_count": 2,
+        "direct_count": 2,
+        "direct_objects": [
+          "09PS104 / PS Versvey (2703)",
+          "N13 143 / Steilerbachbrücke"
+        ],
+        "children": []
+      },
+      {
+        "code": "1123",
+        "name": "Brücke mit Bogentragwerk",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "S5391 / BRÜCKE Krummbach 1 N9S"
+        ],
+        "children": []
+      },
+      {
+        "code": "1131",
+        "name": "Schrägseilbrücke",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "P1011 / PONT de Chandoline"
+        ],
+        "children": []
+      },
+      {
+        "code": "119",
+        "name": "Spezielle Brücke",
+        "agg_count": 11,
+        "direct_count": 1,
+        "direct_objects": [
+          "N13 288 / Wildbrücke Halbmil"
+        ],
+        "children": [
+          {
+            "code": "1193",
+            "name": "Plattenbrücke",
+            "agg_count": 10,
+            "direct_count": 10,
+            "direct_objects": [
+              "G2991 / PONT Tornafou 1",
+              "09PS074 / PS JCT Vevey (742)",
+              "N01 20 / UNF Spitzrütistrasse, Oberbüren",
+              "S6191 / BRÜCKE Gondo 1 N9S",
+              "N01 2R / UNF Westumfahrung Süd, Gossau",
+              "09PS049 / PSP Ch. des Lussy (2010)",
+              "N13 132 / Unterführung Zipfen",
+              "VIA0250 / Viaduc Sud sur la Birse",
+              "505J_FR / Pont Rc Ecuvillens-Posieux Jura",
+              "20.3 601-O1 / Bretelle dénivelée, bas des Gorges du Seyon, Ouvrage I"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "1193",
+        "name": "Plattenbrücke",
+        "agg_count": 10,
+        "direct_count": 10,
+        "direct_objects": [
+          "G2991 / PONT Tornafou 1",
+          "09PS074 / PS JCT Vevey (742)",
+          "N01 20 / UNF Spitzrütistrasse, Oberbüren",
+          "S6191 / BRÜCKE Gondo 1 N9S",
+          "N01 2R / UNF Westumfahrung Süd, Gossau",
+          "09PS049 / PSP Ch. des Lussy (2010)",
+          "N13 132 / Unterführung Zipfen",
+          "VIA0250 / Viaduc Sud sur la Birse",
+          "505J_FR / Pont Rc Ecuvillens-Posieux Jura",
+          "20.3 601-O1 / Bretelle dénivelée, bas des Gorges du Seyon, Ouvrage I"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "12",
+    "name": "Tagbaute (ohne Brücke)",
+    "agg_count": 189,
+    "direct_count": 1,
+    "direct_objects": [
+      "N3-701 / Tunnel Schinznacherfeld"
+    ],
+    "children": [
+      {
+        "code": "121",
+        "name": "Tagbautunnel",
+        "agg_count": 4,
+        "direct_count": 2,
+        "direct_objects": [
+          "601 / Portal Orpund",
+          "A5 3 633_TC / Tranchée Couverte Ouest des Poudrières"
+        ],
+        "children": [
+          {
+            "code": "1211",
+            "name": "Tagbautunnel mit Rahmentragwerk",
+            "agg_count": 2,
+            "direct_count": 2,
+            "direct_objects": [
+              "162 / Rampe und Portalzone Ost (RPZ-O)",
+              "A5 4 431-S / TC d'Auvernier Sud"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "1211",
+        "name": "Tagbautunnel mit Rahmentragwerk",
+        "agg_count": 2,
+        "direct_count": 2,
+        "direct_objects": [
+          "162 / Rampe und Portalzone Ost (RPZ-O)",
+          "A5 4 431-S / TC d'Auvernier Sud"
+        ],
+        "children": []
+      },
+      {
+        "code": "122",
+        "name": "Galerie",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "G3551D / GO R9 Fourtse 49-51"
+        ],
+        "children": []
+      },
+      {
+        "code": "123",
+        "name": "Durchlass",
+        "agg_count": 28,
+        "direct_count": 2,
+        "direct_objects": [
+          "09W441 / VT R. Le Crau Coulet",
+          "A03 125 / Kellerüberbrückung Savognin"
+        ],
+        "children": [
+          {
+            "code": "1231",
+            "name": "Durchlass mit offenem Querschnitt",
+            "agg_count": 2,
+            "direct_count": 2,
+            "direct_objects": [
+              "48.08.07.02 / Bachverbauung unten",
+              "T 321 / ÖRB Obere Chandergrienwald"
+            ],
+            "children": []
+          },
+          {
+            "code": "1232",
+            "name": "Durchlass mit geschlossenem Querschnitt",
+            "agg_count": 24,
+            "direct_count": 24,
+            "direct_objects": [
+              "A5 8 362 / VT les Gouilles",
+              "01W430-1 / Passage à faune Pra Gouma (Daillens)",
+              "52.303A / DL Bodmenbach Intschi/Gurtnellen",
+              "N086005 / DL Dorfbach Schenkon",
+              "P0998 / PI Voie ferrée Chandoline",
+              "N055003 / DL Ibach",
+              "NB 321 / Exutoire Ländte Tüscherz I (exutoire-pas à traiter) ",
+              "N045077 / DL Grisigenbach + Kleinwilbach Horw",
+              "7.052 / DL Punkt 382 Nord, Liesberg",
+              "53.440.14 / DL 03 Harnisch",
+              "ZH_066-008 / WLK Leitungsstollen Zunstrasse, Opfikon",
+              "ZH_139-008 / WLK Langentannenstrasse, Rüschlikon",
+              "ZH_250-003 / WLK Steinacker, Urdorf",
+              "N13 110 / Durchlass Dorfbach Nufenen",
+              "68.612 / DL Kernmattbach Sarnen",
+              "N25-419 / DL WLK Oberbreitli Buochs",
+              "D 463 / PA Le Torrent",
+              "P0615A / DL 795 Canal Toléron",
+              "N13 45 / DL Vilterser-Wangser-Kanal West, Anschluss Trübbach",
+              "53.440.12 / DL 06 Bruederguet",
+              "L 402 / DL Steibächli Wileroltingen 1",
+              "A28 007 / Durchlass Sagabach",
+              "ZH_009-009 / WLK Eigi, Mettmenstetten",
+              "N5/2S088A / Durchlass Eymattbach"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "1231",
+        "name": "Durchlass mit offenem Querschnitt",
+        "agg_count": 2,
+        "direct_count": 2,
+        "direct_objects": [
+          "48.08.07.02 / Bachverbauung unten",
+          "T 321 / ÖRB Obere Chandergrienwald"
+        ],
+        "children": []
+      },
+      {
+        "code": "1232",
+        "name": "Durchlass mit geschlossenem Querschnitt",
+        "agg_count": 24,
+        "direct_count": 24,
+        "direct_objects": [
+          "A5 8 362 / VT les Gouilles",
+          "01W430-1 / Passage à faune Pra Gouma (Daillens)",
+          "52.303A / DL Bodmenbach Intschi/Gurtnellen",
+          "N086005 / DL Dorfbach Schenkon",
+          "P0998 / PI Voie ferrée Chandoline",
+          "N055003 / DL Ibach",
+          "NB 321 / Exutoire Ländte Tüscherz I (exutoire-pas à traiter) ",
+          "N045077 / DL Grisigenbach + Kleinwilbach Horw",
+          "7.052 / DL Punkt 382 Nord, Liesberg",
+          "53.440.14 / DL 03 Harnisch",
+          "ZH_066-008 / WLK Leitungsstollen Zunstrasse, Opfikon",
+          "ZH_139-008 / WLK Langentannenstrasse, Rüschlikon",
+          "ZH_250-003 / WLK Steinacker, Urdorf",
+          "N13 110 / Durchlass Dorfbach Nufenen",
+          "68.612 / DL Kernmattbach Sarnen",
+          "N25-419 / DL WLK Oberbreitli Buochs",
+          "D 463 / PA Le Torrent",
+          "P0615A / DL 795 Canal Toléron",
+          "N13 45 / DL Vilterser-Wangser-Kanal West, Anschluss Trübbach",
+          "53.440.12 / DL 06 Bruederguet",
+          "L 402 / DL Steibächli Wileroltingen 1",
+          "A28 007 / Durchlass Sagabach",
+          "ZH_009-009 / WLK Eigi, Mettmenstetten",
+          "N5/2S088A / Durchlass Eymattbach"
+        ],
+        "children": []
+      },
+      {
+        "code": "1241",
+        "name": "Felssicherung",
+        "agg_count": 5,
+        "direct_count": 5,
+        "direct_objects": [
+          "59.07.01.02 / Felssicherung mit Stahlnägeln",
+          "59.01.43.01 / Verdübelung",
+          "40.05.96.12 / Gruppe 8",
+          "59.09.35.01 / Felsanker ",
+          "68.01.03.01 / Spritzbetonabdeckung"
+        ],
+        "children": []
+      },
+      {
+        "code": "1242",
+        "name": "Hangsicherung",
+        "agg_count": 3,
+        "direct_count": 3,
+        "direct_objects": [
+          "48.31.40.01 / Gelände Ob Dorf Mumpf",
+          "S0431 / SM-V Riederwald 1",
+          "16.02.50.01 / Terrain, Hangsicherung"
+        ],
+        "children": []
+      },
+      {
+        "code": "1243",
+        "name": "Stützmauer",
+        "agg_count": 49,
+        "direct_count": 49,
+        "direct_objects": [
+          "913 C3.4 / SM-V 02 VZ Gellert Basel (R4)",
+          "53.721.26 / SM 01 Gsang Hospental",
+          "N13 924 / Muro di sostegno 2, San Vittore",
+          "K 131 / SM Teuffematti II",
+          "ZH_069-050 / SM Herzogenmühle 2 Rtg. Bern, Wallisellen",
+          "G0472 / MS La Croix 4",
+          "09M038-G / MS AR 38 Lanciau",
+          "A03 885 / Stützmauer Tinizong 2",
+          "15.508 / Muro di sostegno rotonda San Giovanni",
+          "09M069-D / MS AR 69 Nant",
+          "N25-088 / SM Grosshus Süd, Schlatt-Haslen",
+          "G1229 / MS TC La Monnaie aval Ouest",
+          "09M080-D / MS AR 80 Ch. de Rossillon",
+          "G1114 / MS La Fory TMR 1",
+          "K 154 / SM Am Büel XI",
+          "A17 704 / Wandmauer Traversa 2",
+          "48.301.0119 / SM 10 Bühl - Seedorf (Unten) FBSU",
+          "ZH_261-337.04 / SM BSA Nische km 295.444",
+          "6.023 / SM 02 Unterwart beim AS Muttenz-Süd",
+          "S6261 / SM San Marco",
+          "66.52B / SM 02 Südportal Tunnel Lungern FBLU",
+          "N14-021 / SM Chlus Südwest, Hirzel",
+          "S0971 / SM Berisalkehr 2",
+          "09M919B-7 / Mur 919B-7 Mur entre les PI (inclus dans le PI)",
+          "A5_MVSE (PROV) / Murs Vallon Sud-Est",
+          "N13 733 / Muro di sostegno San Remo",
+          "N13 341 / SM Anschluss Buchs West",
+          "D 106 / MS Bienne Nord D 04D",
+          "ZH_132-A507_C / SM Zugerstrasse Rich im Schiffli Teil C",
+          "N25-095 / SM Unterstein Nord, Schlatt-Haslen",
+          "NB 1027 / MS 1052 Tüscherz",
+          "R0821 / SM Hohtenn Berg 5769",
+          "ZH_261-337.31 / SM BSA Nische Einfahrt km 300.636",
+          "A03 1051 / Wandmauer Plan Buel",
+          "52.305.32 / SM Galerie Pfaffensprung Süd, Romeo",
+          "68.652 / SM Niderstad Alpnach FBLU",
+          "09M024-C / MS AR 24 Bras-de-Fer",
+          "N25-207A / SM an UHW unter Brücke Bettlerbach Beckenried",
+          "953_FR / MS Im Loch",
+          "12M002-D / MS AR 2 Cucloz",
+          "N01 371 / SM Goldachtobel-Basisstrasse, Mörschwil",
+          "52.303.17 / SM Riedmatt Silenen FBNO",
+          "S0681 / SM-V Ganter 6",
+          "T 109A / SM Schosshalden SP - BE",
+          "53.720.62 / SM 01 Bäzkehr",
+          "05PAB009 / PAB La Rochelle",
+          "ZH_261-337.25 / SM BSA Nische Ausfahrt km 300.074",
+          "R0871 / SM Steg Tal 7990",
+          "53.720.66 / SM 05 Bäzkehr"
+        ],
+        "children": []
+      },
+      {
+        "code": "1244",
+        "name": "Stützkonstruktion",
+        "agg_count": 4,
+        "direct_count": 4,
+        "direct_objects": [
+          "84.02.05.04 / Hangverdübelung Ost",
+          "N055058 / SM-V Friedental FBNO",
+          "201 / Stirnwand Nord",
+          "1408 / ZENTRALE Betriebsgebäude Gellert Basel"
+        ],
+        "children": []
+      },
+      {
+        "code": "1246",
+        "name": "Felsunterfangung",
+        "agg_count": 2,
+        "direct_count": 2,
+        "direct_objects": [
+          "68.05.15.01 / Unterfangung",
+          "32.03.03.06 / Unterfanung"
+        ],
+        "children": []
+      },
+      {
+        "code": "125",
+        "name": "Schutzbauwerk",
+        "agg_count": 34,
+        "direct_count": 2,
+        "direct_objects": [
+          "01-GR / Bachverbau oberhalb N13",
+          "N14LSW-023.33 / LSW Steihuser Allmend FBLU"
+        ],
+        "children": [
+          {
+            "code": "1251",
+            "name": "Erosionsschutz",
+            "agg_count": 1,
+            "direct_count": 1,
+            "direct_objects": [
+              "24.03.35.03 / Bachverbauung unten"
+            ],
+            "children": []
+          },
+          {
+            "code": "1252",
+            "name": "Grundwasserwanne",
+            "agg_count": 1,
+            "direct_count": 1,
+            "direct_objects": [
+              "A5 4 365 / Trémie de Colombier"
+            ],
+            "children": []
+          },
+          {
+            "code": "1253",
+            "name": "Lawinenverbauung",
+            "agg_count": 2,
+            "direct_count": 2,
+            "direct_objects": [
+              "01-SW / Stahlwerk",
+              "59.08.32.06 / Dreibeinböcke-Gruppe (13 Stk.)"
+            ],
+            "children": []
+          },
+          {
+            "code": "1255",
+            "name": "Schutzbau gegen Steinschlag",
+            "agg_count": 7,
+            "direct_count": 7,
+            "direct_objects": [
+              "02-PA / Stahlpalisade",
+              "B2.22 / Stahlschwellenwand",
+              "24U_OP km54.4 (PROV) / Felsverankerung Rappeflue (danger naturel-pas à traiter)",
+              "S6228D / Gondo Steinschlagschutznetz 4",
+              "R0476E / Steinschlagschutznetz",
+              "40.01.20.99 / Felswände Zone L Lopper, ungesicherte Felsobjekte",
+              "B2.13 / Stahlschwellenwand"
+            ],
+            "children": []
+          },
+          {
+            "code": "1256",
+            "name": "Schutznetz",
+            "agg_count": 19,
+            "direct_count": 19,
+            "direct_objects": [
+              "68.01.10.02 / kurzes Netz bergseits Forstweg, rückverankert",
+              "48.07.2.17 / Netzanlage starr (zerstört)",
+              "020.860/13 / Bissone 13",
+              "40.02.48.02 / Netz Buchenloch Ost, Reihe 2, rückverankert",
+              "M6.1b West / Steinschlagschutznetz",
+              "B 521A / SSB Balmi",
+              "B 523I / Netz neu,  über Netzabdeckung B 523H Oberer Rufiberg",
+              "16.03.40.01 / Steinschlagschutznetz Schaubrain oben (11.301.1), rückverankert",
+              "12-SN / Steinschlagnetz",
+              "68.01.30.09 / alter Maschendrahtzaun (Rückgebaut)",
+              "J 501.1 / Werk 1",
+              "68.01.20.04 / alter Maschendrahtzaun (Rückgebaut)",
+              "05-NV / Netzverspann",
+              "68.02.70.07 / Alter Schutzzaun (zurückgestuft)",
+              "48.03.10.05 / Netzanlage mit Rueckabspannung",
+              "48.07.10.04 / Netzanlage starr",
+              "2-SN / Steinschlagnetz",
+              "M6.10V1/V2 / Steinschlagschutznetz",
+              "32.02.43.13 / Steinschlagschutznetz, rückverankert (neu)"
+            ],
+            "children": []
+          },
+          {
+            "code": "1259",
+            "name": "Geschiebesammler",
+            "agg_count": 2,
+            "direct_count": 2,
+            "direct_objects": [
+              "40.04.56.02 / Kiessammler Waldstrasse",
+              "40.05.56.02 / KEB I Geschiebesammler Werkstrasse III"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "1251",
+        "name": "Erosionsschutz",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "24.03.35.03 / Bachverbauung unten"
+        ],
+        "children": []
+      },
+      {
+        "code": "1252",
+        "name": "Grundwasserwanne",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "A5 4 365 / Trémie de Colombier"
+        ],
+        "children": []
+      },
+      {
+        "code": "1253",
+        "name": "Lawinenverbauung",
+        "agg_count": 2,
+        "direct_count": 2,
+        "direct_objects": [
+          "01-SW / Stahlwerk",
+          "59.08.32.06 / Dreibeinböcke-Gruppe (13 Stk.)"
+        ],
+        "children": []
+      },
+      {
+        "code": "1255",
+        "name": "Schutzbau gegen Steinschlag",
+        "agg_count": 7,
+        "direct_count": 7,
+        "direct_objects": [
+          "02-PA / Stahlpalisade",
+          "B2.22 / Stahlschwellenwand",
+          "24U_OP km54.4 (PROV) / Felsverankerung Rappeflue (danger naturel-pas à traiter)",
+          "S6228D / Gondo Steinschlagschutznetz 4",
+          "R0476E / Steinschlagschutznetz",
+          "40.01.20.99 / Felswände Zone L Lopper, ungesicherte Felsobjekte",
+          "B2.13 / Stahlschwellenwand"
+        ],
+        "children": []
+      },
+      {
+        "code": "1256",
+        "name": "Schutznetz",
+        "agg_count": 19,
+        "direct_count": 19,
+        "direct_objects": [
+          "68.01.10.02 / kurzes Netz bergseits Forstweg, rückverankert",
+          "48.07.2.17 / Netzanlage starr (zerstört)",
+          "020.860/13 / Bissone 13",
+          "40.02.48.02 / Netz Buchenloch Ost, Reihe 2, rückverankert",
+          "M6.1b West / Steinschlagschutznetz",
+          "B 521A / SSB Balmi",
+          "B 523I / Netz neu,  über Netzabdeckung B 523H Oberer Rufiberg",
+          "16.03.40.01 / Steinschlagschutznetz Schaubrain oben (11.301.1), rückverankert",
+          "12-SN / Steinschlagnetz",
+          "68.01.30.09 / alter Maschendrahtzaun (Rückgebaut)",
+          "J 501.1 / Werk 1",
+          "68.01.20.04 / alter Maschendrahtzaun (Rückgebaut)",
+          "05-NV / Netzverspann",
+          "68.02.70.07 / Alter Schutzzaun (zurückgestuft)",
+          "48.03.10.05 / Netzanlage mit Rueckabspannung",
+          "48.07.10.04 / Netzanlage starr",
+          "2-SN / Steinschlagnetz",
+          "M6.10V1/V2 / Steinschlagschutznetz",
+          "32.02.43.13 / Steinschlagschutznetz, rückverankert (neu)"
+        ],
+        "children": []
+      },
+      {
+        "code": "1259",
+        "name": "Geschiebesammler",
+        "agg_count": 2,
+        "direct_count": 2,
+        "direct_objects": [
+          "40.04.56.02 / Kiessammler Waldstrasse",
+          "40.05.56.02 / KEB I Geschiebesammler Werkstrasse III"
+        ],
+        "children": []
+      },
+      {
+        "code": "126",
+        "name": "Mauer, Damm",
+        "agg_count": 2,
+        "direct_count": 1,
+        "direct_objects": [
+          "10.311 / LS an SM Mittel-Diegten"
+        ],
+        "children": [
+          {
+            "code": "12646",
+            "name": "Fertigbetonelement Mauer",
+            "agg_count": 1,
+            "direct_count": 1,
+            "direct_objects": [
+              "6.114 / GWSB Nord Augst"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "12646",
+        "name": "Fertigbetonelement Mauer",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "6.114 / GWSB Nord Augst"
+        ],
+        "children": []
+      },
+      {
+        "code": "127",
+        "name": "Damm",
+        "agg_count": 15,
+        "direct_count": 7,
+        "direct_objects": [
+          "40.08.25.02 / Leitdamm Böschrütibach",
+          "TE 23-24 / Limite tronçons d'entretien 23 et 24 (OA fictif)",
+          "01-US / Blockwurf links",
+          "N01 343 / LSD Gossau Ost Rtg. SG",
+          "59.06.25.01 / Schutzdamm Scaglioni",
+          "02-US / Blockwurf und Mauern",
+          "TE 11-12 / Limite tronçon d'entretien 11 et 12 (OA fictif)"
+        ],
+        "children": [
+          {
+            "code": "1270",
+            "name": "Schutznetz liegend",
+            "agg_count": 8,
+            "direct_count": 8,
+            "direct_objects": [
+              "40.02.74.01 / Netz best. (oben rechts)",
+              "59.08.10.05 / Felsabdecknetz (fehlend)",
+              "68.02.30.07 / Netzvorhang (Netz-Vorhang)",
+              "48.02.10.01 / Flaechennetz",
+              "40.01.78.01 / Abdecknetz 6x8cm / 2.7mm, Harzmörtel",
+              "020.860/17 / Bissone 17",
+              "16.05.45.01 / Netzabdeckung Ausfahrt Rastplatz",
+              "59.07.25.01 / Netzabdeckung 2019"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "1270",
+        "name": "Schutznetz liegend",
+        "agg_count": 8,
+        "direct_count": 8,
+        "direct_objects": [
+          "40.02.74.01 / Netz best. (oben rechts)",
+          "59.08.10.05 / Felsabdecknetz (fehlend)",
+          "68.02.30.07 / Netzvorhang (Netz-Vorhang)",
+          "48.02.10.01 / Flaechennetz",
+          "40.01.78.01 / Abdecknetz 6x8cm / 2.7mm, Harzmörtel",
+          "020.860/17 / Bissone 17",
+          "16.05.45.01 / Netzabdeckung Ausfahrt Rastplatz",
+          "59.07.25.01 / Netzabdeckung 2019"
+        ],
+        "children": []
+      },
+      {
+        "code": "1280",
+        "name": "Signalportal einfacher Rahmen",
+        "agg_count": 23,
+        "direct_count": 23,
+        "direct_objects": [
+          "N01-54S23 / Signalportal",
+          "TE72-31S / Portique",
+          "N03-50S114 / Signalportal",
+          "TE43-02S / Portique",
+          "N03-68S9 / Signalportal",
+          "N08SIGP0066-075.035 / Signalportale N8 - km 75.035",
+          "N01-38S54 / Signalportal",
+          "N02SIGP0030-142.927 / Signalportale N2 - km 142.927",
+          "N01SIGP0010-91.720 / Signalportale N1 - km91.720",
+          "N01-38S10 / Signalportal",
+          "N02SIGP0027-104.650 / Signalportale N2 - km 104.650",
+          "TE02-19S / Portique",
+          "TE23-10S / Portique",
+          "TE33-03S / Portique",
+          "N07-76S2 / Signalportal",
+          "TE22-30S / Portique",
+          "N03-70S5 / Signalportal",
+          "N01-55S2 / Signalportal",
+          "N01-54S34 / Signalportal",
+          "N01-48S26.1  / Signalportal",
+          "PTS 101100 / Ausleger",
+          "SP 163630 / Signalportal",
+          "060.777-0.910 / Portale km 0.910"
+        ],
+        "children": []
+      },
+      {
+        "code": "1281",
+        "name": "Signalportal einfacher Rahmen, begehbar",
+        "agg_count": 8,
+        "direct_count": 8,
+        "direct_objects": [
+          "N03-68S10.1 / Signalportal",
+          "N03SIGP0042-020.580 / Signalportale N3 - km 20.580",
+          "N01-42S29 / Signalportal",
+          "N01-42S29.1 / Signalportal",
+          "N01-42S8 / Signalportal",
+          "3 / Portale segnaletica km 90.570",
+          "40.707 / Portale segnaletica PMV al km 32.100",
+          "N01-46S5.4 / Signalportal"
+        ],
+        "children": []
+      },
+      {
+        "code": "1282",
+        "name": "Signalportal Mehrfeldträger",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "N03-60S3 / Signalportal"
+        ],
+        "children": []
+      },
+      {
+        "code": "1284",
+        "name": "Signalportal einseitig auskragend",
+        "agg_count": 7,
+        "direct_count": 7,
+        "direct_objects": [
+          "N03-50S112 / Signalportal",
+          "N01-52S3 / Signalportal",
+          "N03-56S5 / Signalportal",
+          "TE13-01P / Potence",
+          "TE01-B14P / Potence",
+          "N04-08S22 / Signalportal",
+          "78.5 / Portale segnaletica - km 78.500"
+        ],
+        "children": []
+      },
+      {
+        "code": "1288",
+        "name": "Signalträger im Tunnel",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "BT01_AM / Barre tunnel 1 amont"
+        ],
+        "children": []
+      },
+      {
+        "code": "1292",
+        "name": "Mast Vollwandträger",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "N15_08S10 / Mast"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "13",
+    "name": "Untertagbaute",
+    "agg_count": 12,
+    "direct_count": 1,
+    "direct_objects": [
+      "NV-VS 3 / Sustentunnel in Planung"
+    ],
+    "children": [
+      {
+        "code": "1312",
+        "name": "Stollen",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "CUN / Cunicolo di collegamento trasversale"
+        ],
+        "children": []
+      },
+      {
+        "code": "1313",
+        "name": "Querverbindung",
+        "agg_count": 3,
+        "direct_count": 3,
+        "direct_objects": [
+          "CT1 / Cunicolo trasversale",
+          "N01 91C_VS 4 / Verbindungsstollen 4",
+          "261-701J10 / QV 10"
+        ],
+        "children": []
+      },
+      {
+        "code": "1314",
+        "name": "Befahrbare Querverbindung",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "GTCA 2 / Galerie transversale carrossable"
+        ],
+        "children": []
+      },
+      {
+        "code": "1315",
+        "name": "Begehbare Querverbindung",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "GTPI 6 / Galerie transversale piétonne"
+        ],
+        "children": []
+      },
+      {
+        "code": "1316",
+        "name": "Werkleitungskanal",
+        "agg_count": 2,
+        "direct_count": 2,
+        "direct_objects": [
+          "P1065 / DL 1011 Canalisation",
+          "P0955A / DL 973 Canalisation"
+        ],
+        "children": []
+      },
+      {
+        "code": "132",
+        "name": "Schacht",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "1222 / Lüftungsschacht Bäzberg (LSBA)"
+        ],
+        "children": []
+      },
+      {
+        "code": "133",
+        "name": "Kaverne und Spezialuntertagbaute",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "1243 / Schachtkopf Guspisbach (SGU)"
+        ],
+        "children": []
+      },
+      {
+        "code": "134",
+        "name": "Nische",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "NS 25.7L / Niche 25.7L"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "14",
+    "name": "",
+    "agg_count": 6,
+    "direct_count": 0,
+    "direct_objects": [],
+    "children": [
+      {
+        "code": "140",
+        "name": "Hochbaute allgemein",
+        "agg_count": 2,
+        "direct_count": 2,
+        "direct_objects": [
+          "60.85 / Edificio tecnico Castione",
+          "141 / Trafostation aufgehoben (TS)"
+        ],
+        "children": []
+      },
+      {
+        "code": "1410",
+        "name": "Gebäude überdeckt",
+        "agg_count": 3,
+        "direct_count": 3,
+        "direct_objects": [
+          "SH_429B / Galerie Schönenberg, Zentrale UV Fulach",
+          "303 / Portalstation Ost",
+          "N01 84B / Zentrale Schoren"
+        ],
+        "children": []
+      },
+      {
+        "code": "1411",
+        "name": "Gebäude überirdisch",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "18 / Abluftbauwerk"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "16",
+    "name": "",
+    "agg_count": 20,
+    "direct_count": 0,
+    "direct_objects": [],
+    "children": [
+      {
+        "code": "162",
+        "name": "Abwasserpumpwerk",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "TE03_SP_910.06 PROV / SP Tunnel des Nations (projeté)"
+        ],
+        "children": []
+      },
+      {
+        "code": "163",
+        "name": "Abwasserreinigungsanlage",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "ZH_021-402 / EWA SABA Wildbach, Adlikon"
+        ],
+        "children": []
+      },
+      {
+        "code": "164",
+        "name": "Rückhaltebecken",
+        "agg_count": 4,
+        "direct_count": 4,
+        "direct_objects": [
+          "SZ_399 / EWA Becken Lochgasse, Wangen",
+          "N02PS0024 / PS-RB Sonnenbergstrasse Hergiswil",
+          "GL_35-727 / EWA Becken Schieberschacht Tunnel Standenhorn Westportal, Filzbach",
+          "P0845D / BAC Vétroz-Ouest"
+        ],
+        "children": []
+      },
+      {
+        "code": "165",
+        "name": "Entsander und Ölabscheider",
+        "agg_count": 14,
+        "direct_count": 14,
+        "direct_objects": [
+          "65.809 / Separatore d'olii, km 68.560 NS",
+          "ÖRB020042 / ÖRB Hürn 01 Dagmersellen FBNO",
+          "ÖRB020041 / ÖRB an der Wigger Dagmersellen FBSU",
+          "N02ÖRB0024 / ÖRB Speermattweg Zunzgen FBBS",
+          "N05ÖRB0004 / ÖRB Dorfbach Leuzigen FBBI",
+          "130_FR / SH de La Motte",
+          "GL_35-725 / EWA Oelabscheider Tiefenwinkel, Mühlehorn",
+          "ÖRB080002 / ÖRB inkl. Stapelbecken Nordportal Tunnel Lungern",
+          "ZH_062-404 / EWA Oelabscheider Werft, Kloten",
+          "A5 8 868 / SH Les Gouilles",
+          "N15-051 / EWA Oelabscheider Boland, Rapperswil-Jona",
+          "N02ÖRB0008 / ÖRB Rütihard Muttenz",
+          "P0015 / SH 597 Le Glarier",
+          "413_FR / SH Le Bry N° 5"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "20",
+    "name": "",
+    "agg_count": 3,
+    "direct_count": 0,
+    "direct_objects": [],
+    "children": [
+      {
+        "code": "206",
+        "name": "Tunnelröhre",
+        "agg_count": 3,
+        "direct_count": 3,
+        "direct_objects": [
+          "12 / Weströhre",
+          "11 / Tunnelröhre",
+          "101 / TUNNEL Sierre, tube Sud (+)"
+        ],
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "71",
+    "name": "",
+    "agg_count": 18,
+    "direct_count": 0,
+    "direct_objects": [],
+    "children": [
+      {
+        "code": "716",
+        "name": "Lärmschutzbaute",
+        "agg_count": 18,
+        "direct_count": 2,
+        "direct_objects": [
+          "U 611 / LSW Lyss Nord",
+          "F 626 / LSW Thörishaus Süd FR - BE"
+        ],
+        "children": [
+          {
+            "code": "7161",
+            "name": "Lärmschutzwand",
+            "agg_count": 7,
+            "direct_count": 7,
+            "direct_objects": [
+              "S0088 / LSW Brücke Chritzi Nord",
+              "09PAB124 / PAB Veytaux Centre",
+              "L_A03039.75+0.01 / LSW Bachdellen West Holz",
+              "156 LS6 / Lärmschutzelemente bei R2RD",
+              "A5 8 714 / PAB Le Landeron Nord-Est",
+              "G0480 / PAB La Croix 2",
+              "01PAB073 / PAB Mex Sud"
+            ],
+            "children": []
+          },
+          {
+            "code": "7162",
+            "name": "Fest montierte Lärmschutzwand",
+            "agg_count": 8,
+            "direct_count": 8,
+            "direct_objects": [
+              "65.901 / Parete fonica in alluminio, Moleno km 62.250-62.400 NS",
+              "ZH_200-A851 / LSW Stierwisen, Wangen-Brüttisellen",
+              "N01 318 / LSW Lerchental Rtg. ZH, Neudorf",
+              "N03 100 / LSW Anschluss Wollerau Bergweg Rtg. Chur",
+              "N01 314 / LSW Dietli Rtg. ZH, Schoren",
+              "40.934 / Pareti foniche in alluminio, Rivera SN",
+              "4461-01 / LSW Weinfelderstrasse Nr. 24, Amriswil",
+              "N03 161 / LSW Hinterfeld Rtg. ZH, Walenstadt"
+            ],
+            "children": []
+          },
+          {
+            "code": "7163",
+            "name": "Demontierbare Wand, mit dem Bauwerk verbunden",
+            "agg_count": 1,
+            "direct_count": 1,
+            "direct_objects": [
+              "227 WA05/LS01 / Wanne Lärmschutz Wand Nord"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "7161",
+        "name": "Lärmschutzwand",
+        "agg_count": 7,
+        "direct_count": 7,
+        "direct_objects": [
+          "S0088 / LSW Brücke Chritzi Nord",
+          "09PAB124 / PAB Veytaux Centre",
+          "L_A03039.75+0.01 / LSW Bachdellen West Holz",
+          "156 LS6 / Lärmschutzelemente bei R2RD",
+          "A5 8 714 / PAB Le Landeron Nord-Est",
+          "G0480 / PAB La Croix 2",
+          "01PAB073 / PAB Mex Sud"
+        ],
+        "children": []
+      },
+      {
+        "code": "7162",
+        "name": "Fest montierte Lärmschutzwand",
+        "agg_count": 8,
+        "direct_count": 8,
+        "direct_objects": [
+          "65.901 / Parete fonica in alluminio, Moleno km 62.250-62.400 NS",
+          "ZH_200-A851 / LSW Stierwisen, Wangen-Brüttisellen",
+          "N01 318 / LSW Lerchental Rtg. ZH, Neudorf",
+          "N03 100 / LSW Anschluss Wollerau Bergweg Rtg. Chur",
+          "N01 314 / LSW Dietli Rtg. ZH, Schoren",
+          "40.934 / Pareti foniche in alluminio, Rivera SN",
+          "4461-01 / LSW Weinfelderstrasse Nr. 24, Amriswil",
+          "N03 161 / LSW Hinterfeld Rtg. ZH, Walenstadt"
+        ],
+        "children": []
+      },
+      {
+        "code": "7163",
+        "name": "Demontierbare Wand, mit dem Bauwerk verbunden",
+        "agg_count": 1,
+        "direct_count": 1,
+        "direct_objects": [
+          "227 WA05/LS01 / Wanne Lärmschutz Wand Nord"
+        ],
+        "children": []
+      }
+    ]
+  }
+]
