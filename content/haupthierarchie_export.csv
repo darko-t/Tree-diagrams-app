@@ -1,0 +1,168 @@
+Ebene,Code,Name,Parent
+1,11,"Brücke, Viadukt",
+3,1111,Brücke mit Einfeldträger,11
+3,1112,Brücke mit Durchlaufträger,11
+3,1113,Brücke mit Gerberträger,11
+2,112,"Rahmen-, Bogenbrücken",11
+3,1121,Brücke mit Rahmentragwerk,112
+3,1122,Brücke mit Sprengwerk,112
+3,1123,Brücke mit Bogentragwerk,112
+3,1124,Brücke mit versteiftem Stabbogen / Langerscher Balken,112
+3,1125,Gewölbekonstruktion,112
+3,1121,Brücke mit Rahmentragwerk,11
+3,1122,Brücke mit Sprengwerk,11
+3,1123,Brücke mit Bogentragwerk,11
+3,1124,Brücke mit versteiftem Stabbogen / Langerscher Balken,11
+3,1125,Gewölbekonstruktion,11
+3,1131,Schrägseilbrücke,11
+3,1132,Hängebrücke,11
+3,1133,Spannbandbrücke,11
+2,119,Spezielle Brücke,11
+3,1192,Brücke auf Wanne,119
+3,1193,Plattenbrücke,119
+3,1192,Brücke auf Wanne,11
+3,1193,Plattenbrücke,11
+1,12,Tagbaute (ohne Brücke),
+2,121,Tagbautunnel,12
+3,1211,Tagbautunnel mit Rahmentragwerk,121
+3,1212,Tagbautunnel mit Gewölbekonstruktion,121
+3,1211,Tagbautunnel mit Rahmentragwerk,12
+3,1212,Tagbautunnel mit Gewölbekonstruktion,12
+2,122,Galerie,12
+3,1221,Galerie mit Rahmentragwerk,122
+3,1222,Galerie mit Gewölbekonstruktion,122
+3,1221,Galerie mit Rahmentragwerk,12
+3,1222,Galerie mit Gewölbekonstruktion,12
+2,123,Durchlass,12
+3,1231,Durchlass mit offenem Querschnitt,123
+3,1232,Durchlass mit geschlossenem Querschnitt,123
+3,1231,Durchlass mit offenem Querschnitt,12
+3,1232,Durchlass mit geschlossenem Querschnitt,12
+2,124,Stützbauwerk,12
+3,1241,Felssicherung,124
+3,1242,Hangsicherung,124
+3,1243,Stützmauer,124
+3,1244,Stützkonstruktion,124
+3,1245,Felsverankerung,124
+3,1246,Felsunterfangung,124
+3,1241,Felssicherung,12
+3,1242,Hangsicherung,12
+3,1243,Stützmauer,12
+3,1244,Stützkonstruktion,12
+3,1245,Felsverankerung,12
+3,1246,Felsunterfangung,12
+2,125,Schutzbauwerk,12
+3,1251,Erosionsschutz,125
+3,1252,Grundwasserwanne,125
+3,1253,Lawinenverbauung,125
+3,1254,Ablenkmauer,125
+3,1255,Schutzbau gegen Steinschlag,125
+3,1256,Schutznetz,125
+3,1257,Schutzdach,125
+3,1258,Fallböden,125
+3,1259,Geschiebesammler,125
+3,1251,Erosionsschutz,12
+3,1252,Grundwasserwanne,12
+3,1253,Lawinenverbauung,12
+3,1254,Ablenkmauer,12
+3,1255,Schutzbau gegen Steinschlag,12
+3,1256,Schutznetz,12
+3,1257,Schutzdach,12
+3,1258,Fallböden,12
+3,1259,Geschiebesammler,12
+2,126,"Mauer, Damm",12
+4,12611,Holzkasten,126
+4,12622,Schwergewichtsmauern in Mauerwerk,126
+4,12641,Verankerte Elemente,126
+4,12646,Fertigbetonelement Mauer,126
+4,12648,Fertigbetonelement Mauer Strasse stützend,126
+4,12611,Holzkasten,12
+4,12622,Schwergewichtsmauern in Mauerwerk,12
+4,12641,Verankerte Elemente,12
+4,12646,Fertigbetonelement Mauer,12
+4,12648,Fertigbetonelement Mauer Strasse stützend,12
+2,127,Damm,12
+3,1270,Schutznetz liegend,127
+3,1270,Schutznetz liegend,12
+2,128,Signalportal,12
+3,1280,Signalportal einfacher Rahmen,128
+3,1281,"Signalportal einfacher Rahmen, begehbar",128
+3,1282,Signalportal Mehrfeldträger,128
+3,1283,"Signalportal Mehrfeldträger, begehbar",128
+3,1284,Signalportal einseitig auskragend,128
+3,1285,"Signalportal einseitig auskragend, begehbar",128
+3,1286,Signalportal beidseitig auskragend,128
+3,1287,Signalträger an Tunnel/Brücke,128
+3,1288,Signalträger im Tunnel,128
+3,1280,Signalportal einfacher Rahmen,12
+3,1281,"Signalportal einfacher Rahmen, begehbar",12
+3,1282,Signalportal Mehrfeldträger,12
+3,1283,"Signalportal Mehrfeldträger, begehbar",12
+3,1284,Signalportal einseitig auskragend,12
+3,1285,"Signalportal einseitig auskragend, begehbar",12
+3,1286,Signalportal beidseitig auskragend,12
+3,1287,Signalträger an Tunnel/Brücke,12
+3,1288,Signalträger im Tunnel,12
+2,129,Mast,12
+3,1291,Mast Fachwerk,129
+3,1292,Mast Vollwandträger,129
+3,1291,Mast Fachwerk,12
+3,1292,Mast Vollwandträger,12
+1,13,Untertagbaute,
+2,131,"Tunnel, Stollen",13
+3,1310,Bergmännischer Tunnel,131
+3,1312,Stollen,131
+3,1313,Querverbindung,131
+3,1314,Befahrbare Querverbindung,131
+3,1315,Begehbare Querverbindung,131
+3,1316,Werkleitungskanal,131
+3,1317,"Ausstellbucht, Aufweitungen",131
+3,1310,Bergmännischer Tunnel,13
+3,1312,Stollen,13
+3,1313,Querverbindung,13
+3,1314,Befahrbare Querverbindung,13
+3,1315,Begehbare Querverbindung,13
+3,1316,Werkleitungskanal,13
+3,1317,"Ausstellbucht, Aufweitungen",13
+2,132,Schacht,13
+3,1321,Vertikalschacht,132
+3,1322,Schrägschacht,132
+3,1323,Einstiegsschacht,132
+3,1321,Vertikalschacht,13
+3,1322,Schrägschacht,13
+3,1323,Einstiegsschacht,13
+2,133,Kaverne und Spezialuntertagbaute,13
+2,134,Nische,13
+1,14,"Hochbaute, Gebäude",
+2,140,Hochbaute allgemein,14
+2,141,Gebäude,14
+3,1410,Gebäude überdeckt,141
+3,1411,Gebäude überirdisch,141
+3,1410,Gebäude überdeckt,14
+3,1411,Gebäude überirdisch,14
+2,142,Kamin,14
+1,15,Wasserversorgungsbaute,
+2,151,Speicheranlage,15
+3,1511,Reservoir,151
+3,1511,Reservoir,15
+2,152,WV-Pumpwerk,15
+2,153,Grundwasseranreicherungsanlage,15
+1,16,Abwasserbaute,
+2,161,Regenbecken,16
+2,162,Abwasserpumpwerk,16
+2,163,Abwasserreinigungsanlage,16
+2,164,Rückhaltebecken,16
+2,165,Entsander und Ölabscheider,16
+2,166,Einlauf,16
+2,167,Rückhaltebaute / Wehr / Gegensperre,16
+2,168,Ablagerungsbecken,16
+1,20,,
+2,206,Tunnelröhre,20
+1,71,,
+2,716,Lärmschutzbaute,71
+3,7161,Lärmschutzwand,716
+3,7162,Fest montierte Lärmschutzwand,716
+3,7163,"Demontierbare Wand, mit dem Bauwerk verbunden",716
+3,7161,Lärmschutzwand,71
+3,7162,Fest montierte Lärmschutzwand,71
+3,7163,"Demontierbare Wand, mit dem Bauwerk verbunden",71
